@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/images/main-logo.png" height="150">
+  <img src="https://raw.githubusercontent.com/victorteje/Hermes-frontend/main/public/images/main-logo.png" height="150">
 </p>
 <br>
 
@@ -36,8 +36,7 @@ Hermes is a mobile application that connects travelers and local tour guides. It
 
 <h2 align="center">Installing and running the project</h2><br>
 
-
-<a href="https://github.com/victorteje/Hermes-backend">Link to Back End Repository</a>
+<a href="https://github.com/victorteje/Hermes-frontend">Link to Front End Repository</a>
 
 
 ### Back End
