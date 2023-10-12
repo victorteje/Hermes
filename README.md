@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/images/main-logo.png" height="150">
+  <img src="./Frontend//public/images/main-logo.png" height="150">
 </p>
 <br>
 
@@ -8,7 +8,7 @@
 
 *** WORK IN PROGRESS ***
 
-Hermes is a mobile application that connects travelers and local tour guides. It allows the user to search for the available guides in a chosen destination, peruse their details and contact them via email, as well as reflecting their impressions through an interactive voting system.
+Hermes is a mobile application that connects travelers and local tour guides. It allows users to search for the available guides in a chosen destination, peruse their details and contact them via email, as well as leave their reviews through an interactive voting system.
 
 <br>
 
