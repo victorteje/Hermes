@@ -43,7 +43,7 @@ Configure the database settings in the application.properties file.
 
 Run MySQL.
 
-Compile the project.
+Run the project.
 
 
 ### Front End
