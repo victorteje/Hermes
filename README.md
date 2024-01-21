@@ -37,9 +37,6 @@ Hermes is a mobile application that connects travelers and local tour guides. It
 <h2 align="center">Installing and running the project</h2><br>
 
 
-<a href="https://github.com/victorteje/Hermes-backend">Link to Back End Repository</a>
-
-
 ### Back End
 
 Configure the database settings in the application.properties file.
